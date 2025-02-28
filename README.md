@@ -1,8 +1,14 @@
-<h1 align="center">🚀 Welcome to Enhanced Machine Intelligence (EMI)</h1>
+<h1 align="center">
+  <img src="https://github.com/EMI-AI/.github/blob/main/images/emi_logo.png" width="100" height="100" alt="EMI Logo" style="border-radius: 10px; border: 3px solid #0077B5;" />
+  <br>
+  🚀 Welcome to Enhanced Machine Intelligence (EMI)
+</h1>
 <h3 align="center">Innovating the Future with AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://github.com/EMI-AI/.github/blob/main/images/emi_logo.png" width="200" height="200" alt="EMI Logo" style="border-radius: 10px; border: 3px solid #0077B5;" />
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge&logo=ai&logoColor=white" alt="AI-Powered" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-green?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
 
 ---
@@ -98,6 +104,32 @@ To revolutionize industries by leveraging the power of artificial intelligence a
 
 ### 📌 Our Vision
 To be a global leader in AI innovation, empowering businesses and individuals with intelligent solutions that drive progress and transformation.
+
+---
+
+### 🏆 Achievements
+- **Winner of AI Innovation Award 2023**: Recognized for groundbreaking work in healthcare AI.
+- **10,000+ Active Users**: Across our AI-powered platforms.
+
+---
+
+### 📜 Certifications
+- **AWS Certified Machine Learning Specialist**
+- **Google Cloud Professional Data Engineer**
+- **TensorFlow Developer Certificate**
+
+---
+
+### 📚 Blog & Resources
+- **[How AI is Transforming Healthcare](https://emi-ai.com/blog)**: A deep dive into AI applications in medicine.
+- **[Getting Started with AutoML](https://emi-ai.com/resources)**: A beginner's guide to automated machine learning.
+
+---
+
+### 🤝 Contribute to Our Projects
+We welcome contributions from the community! Here's how you can get involved:
+- **Report an Issue**: [Click Here](#)
+- **Submit a Pull Request**: [Click Here](#)
 
 ---
 
