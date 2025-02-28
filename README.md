@@ -97,7 +97,7 @@ To revolutionize industries by leveraging the power of artificial intelligence a
 ### 🐍 Our Coding Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EMI-AI/EMI-AI/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/EMI-AI/EMI-AI/output/snake.svg" alt="Snake Animation" />
 </p>
 
 ---
