@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/enhancedmachineintelligence/enhancedmachineintelligence/blob/main/logo.png" width="100" height="100" alt="EMI Logo" style="border-radius: 10px; border: 3px solid #0077B5;" />
+  <img src="https://github.com/enhancedmachineintelligence/EMI/blob/main/images/logo.png" width="100" height="100" alt="EMI Logo" style="border-radius: 10px; border: 3px solid #0077B5;" />
   <br>
   🚀 Welcome to Enhanced Machine Intelligence (EMI)
 </h1>
